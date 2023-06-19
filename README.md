@@ -37,7 +37,7 @@
 
  <br>
  
- O projeto está disponível em:  <strong> <a href="https://eduardonunespp.github.io/projeto-imc/"> imc-project </a></strong> 
+ O projeto está disponível em:  <strong> <a href="https://eduardonunespp.github.io/project-cronometro/"> cronômetro </a></strong> 
 🚀
  
 </div>
