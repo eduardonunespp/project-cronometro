@@ -9,9 +9,9 @@
 
 <div>
  
- <h1> Crônometro </h1>
+ <h1> Timer </h1>
  
-  O projeto do cronômetro é uma aplicação web simples que permite medir o tempo decorrido. Ele inclui funcionalidades como iniciar, pausar, parar e configurar o tempo desejado.
+  O projeto de Timer é uma aplicação web simples que permite medir o tempo decorrido. Ele inclui funcionalidades como iniciar, pausar, parar e configurar o tempo desejado.
  
  <h2>Tecnologias ultilizadas:</h2>
  
@@ -42,7 +42,7 @@
 
  <br>
  
- O projeto está disponível em:  <strong> <a href="https://eduardonunespp.github.io/project-cronometro/"> cronômetro </a></strong> 
+ O projeto está disponível em:  <strong> <a href="https://eduardonunespp.github.io/project-cronometro/"> timer </a></strong> 
 🚀
  
 </div>
