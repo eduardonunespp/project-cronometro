@@ -44,7 +44,7 @@
 
  <br>
  
- O projeto está disponível em:  <strong> <a href="https://eduardonunespp.github.io/project-cronometro/"> timer </a></strong> 
+ O projeto está disponível em:  <strong> <a href="https://eduardonunespp.github.io/project-timer/"> timer </a></strong> 
 🚀
  
 </div>
