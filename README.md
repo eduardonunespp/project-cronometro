@@ -15,7 +15,7 @@
  
   O projeto de Timer é uma aplicação web simples que permite medir o tempo decorrido. Ele inclui funcionalidades como iniciar, pausar, parar e configurar o tempo desejado.
  
- <h2>Tecnologias ultilizadas:</h2>
+ <h2>Tecnologias Utilizadas:</h2>
  
  <div>
     <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
